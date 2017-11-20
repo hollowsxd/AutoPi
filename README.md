@@ -1,0 +1,4 @@
+# AutoPi
+Auto unlock correct PIN at lock screen
+
+## CURRENTLY ON HIATUS, WILL CONTINUE WHEN I HAVE THE TIME AND INTEREST IN IT
